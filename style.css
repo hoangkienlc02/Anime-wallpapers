@@ -38,7 +38,7 @@ body {
 
 /* --- SIDEBAR (THANH ĐIỀU KHIỂN) --- */
 .sidebar {
-    width: 320px;
+    width: 280px;
     background: var(--white);
     border-right: 1px solid var(--border);
     padding: 2rem;
